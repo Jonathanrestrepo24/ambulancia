@@ -39,6 +39,8 @@ y el mes tres.
 
 y hacer un promedio de cuantas personas que fueron trasladadas.
 
+![](jira.png)
+
 ### Aproximacion Caso De Uso:
 ![](imagen.png)
 Descripcion Caso De Uso
